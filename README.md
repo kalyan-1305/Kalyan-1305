@@ -94,10 +94,12 @@
 ## 🚀 Featured Projects
 
 ### ⚡ Electricity Demand Forecasting
-🔗 https://github.com/kalyan-1305/your-repository-name
+🔗 [https://github.com/kalyan-1305/your-repository-name](https://github.com/kalyan-1305/Electricity-Demand-forecasting.git)
 
 ### 🩺 Diabetes Prediction
-🔗 https://github.com/kalyan-1305/diabetes-predictor
+🔗 [https://github.com/kalyan-1305/diabetes-predictor](https://github.com/kalyan-1305/diabetes-predictor.git)
 
 ### 🏡 House Price Analysis using Tableau
-🔗 https://github.com/kalyan-1305/your-tableau-project
+🔗 https://github.com/kalyan-1305/housing-sales-tableau-dashboard.git
+
+
